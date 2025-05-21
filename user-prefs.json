@@ -1,0 +1,360 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ad_astra-fabric-1.20.1-1.15.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-fabric-mc1.20.1-2.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-9.2.14-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\badpackets-fabric-0.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\balm-fabric-1.20.1-7.3.27.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Bookshelf-Fabric-1.20.1-20.2.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\botarium-fabric-1.20.1-2.3.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\chat_heads-0.13.18-fabric-1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cicada-lib-0.13.0+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\clockwork-1.20.1-0.1.16-fabric-b3b22e39fe.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ClockworkAdditions-1.20.1-0.0.6-multiloader.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\coroutil-fabric-1.20.1-1.3.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-new-age-fabric-1.20.1-1.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createbigcannons-5.8.2-mc.1.20.1-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createdieselgenerators-2.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createnuclear-1.2.1-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_connected-0.7.4-mc1.20.1+FABRIC+HOTFIX.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_dd-0.1d.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_enchantment_industry-1.2.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CustomSkinLoader_Fabric-14.23.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\displayfps-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi-1.1.22+1.20.1+fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\entity_model_features_fabric_1.20.1-2.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\entity_texture_features_fabric_1.20.1-6.2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\escalated-1.0.4-create.0.5.1.j-mc.1.20.1-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\eureka-1201-1.5.1-beta.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ExtraSoundsNext-fabric-1.20.1-1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fabric-api-0.92.5+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fabric-loader-0.16.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farmers-delight-fabric-1.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\firstperson-fabric-2.4.9-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fusion-1.2.7-fabric-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\glassential-fabric-2.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Iceberg-1.20.1-fabric-1.1.25.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\indium-1.0.36+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\itemalchemy-1.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.20.1-fabric-15.20.0.106.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\journeymap-1.20.1-5.10.3-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lazydfu-0.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lithium-fabric-mc1.20.1-0.11.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcpitanlib-3.2.5-1.20.1-fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\memoryleakfix-fabric-1.17+-1.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MoreLeads-fabric-1.20.1-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moremobvariants-fabric+1.20.1-1.3.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-fabric-mc1.20-2.26.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MTR-fabric-4.0.0-prerelease.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PresenceFootsteps-1.10.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PuzzlesLib-v8.1.32-1.20.1-Fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ReKusaEater-fabric-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\replaymod-1.20.1-2.6.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefullib-fabric-1.20.1-2.1.29.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\RuOK-1.7.1_1.20.1-Fabric.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\skinlayers3d-fabric-1.7.5-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-extra-0.5.9+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-fabric-0.5.13+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sound-physics-remastered-fabric-1.20.1-1.4.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Tips-Fabric-1.20.1-12.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\trackwork-fabric-1.0.1-beta+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TravelersTitles-1.20-Fabric-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\valkyrienskies-120-2.3.0-beta.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\VMod-Fabric-1.20.1-1.2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\watut-fabric-1.20.1-1.2.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\waystones-fabric-1.20.1-14.1.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\whats-that-slot-fabric-1.3.4+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\worldedit-mod-7.2.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\wthit-fabric-8.16.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YungsApi-1.20-Fabric-4.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\DetailedAnimationsReworked - V1.15.zip",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 4096,
+    "enableRecommendedRam": false
+  }
+}
