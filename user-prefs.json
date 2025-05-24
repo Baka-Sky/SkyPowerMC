@@ -38,10 +38,6 @@
         "isSelected": true
       },
       {
-        "path": "mods\\BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
-        "isSelected": true
-      },
-      {
         "path": "mods\\Bookshelf-Fabric-1.20.1-20.2.13.jar",
         "isSelected": true
       },
@@ -99,10 +95,6 @@
       },
       {
         "path": "mods\\create_enchantment_industry-1.2.16.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\CustomSkinLoader_Fabric-14.23.jar",
         "isSelected": true
       },
       {
@@ -330,6 +322,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\[万用皮肤补丁] CustomSkinLoader_Fabric-14.23.jar",
+        "isSelected": true
+      },
+      {
         "path": "resourcepacks",
         "isSelected": true
       },
@@ -343,10 +339,14 @@
       },
       {
         "path": "shaderpacks",
-        "isSelected": true
+        "isSelected": false
       },
       {
         "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "eureka-1201-1.5.1-beta.3.jar",
         "isSelected": false
       },
       {
